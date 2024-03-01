@@ -1,2 +1,2 @@
-# CSCI3251_LaiZhiyuan
-This is the project of LaiZhiyuan
+Hello, I‘m Lai Zhiyuan!
+My Student number is 1155192450!
